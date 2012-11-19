@@ -9,10 +9,12 @@ A Roman Number Converter for Node.js
 
 ## Examples: 
 
-   root$  romanode 4
-   IV
+INPUT: romanode 4
 
-   root$  romanode 3
-   III
+OUTPUT:   IV
+
+INPUT: romanode 3
+
+OUTPUT:   III
 
 
